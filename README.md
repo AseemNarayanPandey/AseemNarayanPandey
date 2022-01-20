@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AseemNarayanPandey
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning whatevever I don't know
-- 💞️ I’m looking to collaborate on Data Driven tecnologies
 - 📫 How to reach me aseemnarayan@gmail.com
 
 <!---
