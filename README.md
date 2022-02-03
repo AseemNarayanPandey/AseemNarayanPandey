@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AseemNarayanPandey
-- 👀 I’m interested in Data Analytics 
+- 👋 Hi, I’m Aseem
 - 📫 How to reach me aseemnarayan@gmail.com
 
 <!---
